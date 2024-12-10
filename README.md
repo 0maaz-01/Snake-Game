@@ -77,4 +77,4 @@ This is a simple **Snake Game** built with **Tkinter** in Python. The game featu
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - (https://github.com/0maaz-01/Snake-Game/blob/main/LICENSE)
