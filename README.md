@@ -10,6 +10,10 @@ This is a simple **Snake Game** built with **Tkinter** in Python. The game featu
 - **Score**: A score is displayed which increases every time the snake eats food.
 - **Game Window**: The window is centered on the screen.
 
+## Example Gameplay
+
+![Snake Game](https://github.com/0maaz-01/Snake-Game/blob/main/Image/Snake.png)
+
 ## Requirements
 
 - Python 3.x
@@ -71,9 +75,7 @@ This is a simple **Snake Game** built with **Tkinter** in Python. The game featu
    - The snake’s direction is changed using the arrow keys.
    - The game continuously updates using `window.after()` for smoother gameplay.
 
-## Example Gameplay
 
-![Snake Game](https://github.com/0maaz-01/Snake-Game/blob/main/Image/Snake.png)
 
 ## License
 
